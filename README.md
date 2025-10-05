@@ -1,7 +1,6 @@
 # Music Signal Analysis Using Fourier Transform
 
-This project demonstrates how to analyse and reconstruct a music signal using the **Fourier Transform (FT)** in Python.  
-It applies FFT, filtering, and spectrogram visualisation on a short drum audio clip to explore how different frequency bands represent various components of sound.
+This project demonstrates how to analyse and reconstruct a music signal using the **Fourier Transform (FT)** in Python. It applies FFT, filtering, and spectrogram visualisation on a short drum audio clip to explore how different frequency bands represent various components of sound.
 
 # Overview
 
